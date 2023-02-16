@@ -1,11 +1,9 @@
 ### Hi everyone, I'm Keivan Amini 👋
 
 ## About me 😄
-I'm a 22 years old italian guy with a bachelor in **Physics** at the [University of Ferrara](https://www.unife.it/it), and currently pursuing the master's degree in **Applied Physics** at the [University of Bologna](https://www.unibo.it/it). In my free time I work as a **Digital Educator** in many different school of Ferrara and in [Laboratorio Aperto di Ferrara](https://laboratorioapertoferrara.it/), conducting robotics and coding laborarory adressed to kids.
+I'm a 23 years old italian guy with a bachelor in **Physics** at the [University of Ferrara](https://www.unife.it/it), and currently pursuing the master's degree in **Applied Physics** at the [University of Bologna](https://www.unibo.it/it). In my free time I work as a **Digital Educator** in many different school of Ferrara and in [Laboratorio Aperto di Ferrara](https://laboratorioapertoferrara.it/), conducting robotics and coding laboratory adressed to kids.
 
-From January to June 2023 I will make an internship at the [Sorbonne University](https://www.sorbonne-universite.fr/) in the [Institut des Systèmes Intelligents et de Robotique](https://www.isir.upmc.fr/isir/presentation/?lang=en), in Paris, in order to write my master's thesis. In particular, I will be part of the project **ELSA**, to study social affrodances between robot-human interaction through a reinforcement-learning approach. More informations about the project [here](https://www.isir.upmc.fr/projects/elsa/?lang=en).
-
-So I definetely thought it might be a good idea to get confortable with the git environment and improve my coding skills 💪
+Right now I am an Erasmus+ student at the [Sorbonne University](https://www.sorbonne-universite.fr/) and I am a research intern in the [Institut des Systèmes Intelligents et de Robotique](https://www.isir.upmc.fr/isir/presentation/?lang=en), in Paris, in order to write my master's thesis. In particular, I will be part of the project **ELSA**, to study social affrodances between robot-human interaction through a reinforcement-learning approach. More informations about the project [here](https://www.isir.upmc.fr/projects/elsa/?lang=en).
 
 <!--
 **keivan-amini/keivan-amini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

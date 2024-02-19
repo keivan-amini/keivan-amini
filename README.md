@@ -1,9 +1,20 @@
 ### Hi everyone, I'm Keivan Amini 👋
 
 ## About me 😄
-I'm a 23 years old italian guy with a bachelor in **Physics** at the [University of Ferrara](https://www.unife.it/it), and currently pursuing the master's degree in **Applied Physics** at the [University of Bologna](https://www.unibo.it/it). In my free time I work as a **Digital Educator** in many different school of Ferrara and in [Laboratorio Aperto di Ferrara](https://laboratorioapertoferrara.it/), conducting robotics and coding laboratory adressed to kids.
+I'm a 24 years old italian guy with a MSc in **Applied Physics** at the [University of Bologna](https://www.unibo.it/it), currently working on statistical methods and ML applied to health domain. Recently, I have been a Research Intern at the [Institut des Systèmes Intelligents et de Robotique](https://www.isir.upmc.fr/isir/presentation/?lang=en) in Paris, where I have been part of the project [**ELSA**](https://www.isir.upmc.fr/projects/elsa/?lang=en), to study social affrodances between robot-human interaction through reinforcement-learning 🤖
 
-Right now I am an Erasmus+ student at the [Sorbonne University](https://www.sorbonne-universite.fr/) and I am a research intern in the [Institut des Systèmes Intelligents et de Robotique](https://www.isir.upmc.fr/isir/presentation/?lang=en), in Paris, in order to write my master's thesis. In particular, I will be part of the project **ELSA**, to study social affrodances between robot-human interaction through a reinforcement-learning approach. More informations about the project [here](https://www.isir.upmc.fr/projects/elsa/?lang=en).
+In my free time I work as a **Digital Educator** in many different school of Ferrara and in [Laboratorio Aperto di Ferrara](https://laboratorioapertoferrara.it/), conducting robotics and coding laboratory adressed to kids.
+
+In general, I am a curious person who enjoys immersing myself in numerous projects, even those that are vastly different from one another. For a complete list of adventures, check my [CV](https://www.unibo.it/sitoweb/keivan.amini2/download/en/Keivan_Amini_CV-ENG.pdf)!
+
+
+
+
+
+
+
+
+
 
 <!--
 **keivan-amini/keivan-amini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,7 +8,7 @@ I have a MSc in **Applied Physics** at the [University of Bologna](https://www.u
 
 In my free time I work as a **Digital Educator** in many different school of Ferrara and in [Laboratorio Aperto di Ferrara](https://laboratorioapertoferrara.it/), conducting robotics and coding laboratory adressed to kids.
 
-For a complete list of adventures, check my [CV](https://www.unibo.it/sitoweb/keivan.amini2/download/en/Keivan_Amini_CV-ENG.pdf)!
+For a complete list of adventures, check my [CV](https://www.unibo.it/sitoweb/keivan.amini2/download/en/CV_Keivan_Amini.pdf)!
 
 ## Interests 🧠
 My interests lie at the crossroads of *mathematical modeling*, *multidisciplinary research*, and *machine learning*.

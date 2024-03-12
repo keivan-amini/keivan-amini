@@ -4,7 +4,7 @@
 I'm a 24 years old italian guy, working as Research Engineer at the [Department of Physics](https://physics-astronomy.unibo.it/en) at the University of Bologna. At the moment, I am working on statistical methods, network theory and machine learning applied to health domain!
 
 ## Background 📚
-I have a MSc in **Applied Physics** at the [University of Bologna](https://www.unibo.it/it) and a BSc in **Physics** at the [University of Ferrara](https://www.unife.it/it). Recently, I have been a Research Intern at the [Institut des Systèmes Intelligents et de Robotique](https://www.isir.upmc.fr/isir/presentation/?lang=en) in Paris, where I have been part of the project [ELSA](https://www.isir.upmc.fr/projects/elsa/?lang=en), to study social affrodances in human-robot interaction through reinforcement-learning 🤖
+I have a MSc in **Applied Physics** at the [University of Bologna](https://www.unibo.it/it) and a BSc in **Physics** at the [University of Ferrara](https://www.unife.it/it). Recently, I have been a Research Intern at the [Institut des Systèmes Intelligents et de Robotique](https://www.isir.upmc.fr/isir/presentation/?lang=en) in Paris, where I have been part of the project [ELSA](https://www.isir.upmc.fr/projects/elsa/?lang=en), to study social affrodances in human-robot interaction through reinforcement learning 🤖
 
 In my free time I work as a **Digital Educator** in many different school of Ferrara and in [Laboratorio Aperto di Ferrara](https://laboratorioapertoferrara.it/), conducting robotics and coding laboratory adressed to kids.
 

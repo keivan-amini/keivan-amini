@@ -1,5 +1,10 @@
 ### Hi everyone, I'm Keivan Amini 👋
 
+*************
+***NEWS: From Oct 24' I am a PhD Student at the Institute of Intelligent Systems and Robotics at Sorbonne Université, Paris, France.***
+***When I have time a will update this page and maybe create a github.io site :)***
+*************
+
 ## About me 😄
 I'm a 24 years old italian guy, working as Research Engineer at the [Department of Physics](https://physics-astronomy.unibo.it/en) at the University of Bologna. At the moment, I am working on statistical methods, network theory and machine learning applied to health domain!
 
